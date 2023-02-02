@@ -7,8 +7,8 @@
     Feature scaling
 
 # Part 2: Building the model
-    Logistic Reegression model and cross Validation
+    Random Forest Model and cross Validation
 
-# Part 3: Randomized Search to find the best parameters (Logistic regression)
+# Part 3: Randomized Search to find the best parameters 
 
 # Part 4: Final Model
